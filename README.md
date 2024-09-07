@@ -2,13 +2,6 @@
 
 Welcome to the Pong game implementation in C#. This is a classic arcade game where two players control paddles to hit a ball back and forth. The first player to score 10 points wins the game.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
